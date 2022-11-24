@@ -146,10 +146,7 @@ Consensus:
 Sybil Attack:
 Transaction Finality:
 Common Pool Resource (CPR):
-:
-:
-:
-:
+UTXO unspent transaction output:
 :
 :</description></item><item><title>boolean-equations</title><link>https://jethughes.github.io/notes/notes/boolean-equations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jethughes.github.io/notes/notes/boolean-equations/</guid><description>Often used to describe/define combinatorial-logic
 Precedence Precedence
