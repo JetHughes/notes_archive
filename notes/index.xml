@@ -146,9 +146,7 @@ Consensus:
 Sybil Attack:
 Transaction Finality:
 Common Pool Resource (CPR):
-UTXO unspent transaction output:
-:
-:</description></item><item><title>boolean-equations</title><link>https://jethughes.github.io/notes/notes/boolean-equations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jethughes.github.io/notes/notes/boolean-equations/</guid><description>Often used to describe/define combinatorial-logic
+UTXO unspent transaction output: The original method of record keeping in a blockchain where there are no &amp;ldquo;accounts&amp;rdquo; at the protocol layer, and coins are stored as unspent transaction outputs (UTXOs).</description></item><item><title>boolean-equations</title><link>https://jethughes.github.io/notes/notes/boolean-equations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jethughes.github.io/notes/notes/boolean-equations/</guid><description>Often used to describe/define combinatorial-logic
 Precedence Precedence
 NOT is unary, so it has the highest precedence AND is mulitply, so it comes next OR is like plus, to it comes last Creating boolean equations Creating boolean equations:</description></item><item><title>branch</title><link>https://jethughes.github.io/notes/notes/branch/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jethughes.github.io/notes/notes/branch/</guid><description>Split current dev path into two to work on e.g., a bug or a feature
 1 Overview allows users to work independently development continues independently along each branch can easily switch between branches can push a branch without affecting others branches can be merged back into the original always at least one main branch (usually master, main, trunk) 2 Default branch used to be called master now called main 3 Methodologies 3.</description></item><item><title>brutalist-architecture</title><link>https://jethughes.github.io/notes/notes/brutalist-architecture/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jethughes.github.io/notes/notes/brutalist-architecture/</guid><description>no just about aesthetic - also intent and morals
