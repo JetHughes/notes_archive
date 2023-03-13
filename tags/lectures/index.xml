@@ -1,6 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>lectures on</title><link>https://jethughes.github.io/notes/tags/lectures/</link><description>Recent content in lectures on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://jethughes.github.io/notes/tags/lectures/index.xml" rel="self" type="application/rss+xml"/><item><title>04-scripting-techniques</title><link>https://jethughes.github.io/notes/notes/04-scripting-techniques/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jethughes.github.io/notes/notes/04-scripting-techniques/</guid><description>Least priviledge
-scripting
-history origin examples shbang good tips bash
-I/O and pipe
-Env variables and files
-interpolation</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>lectures on</title><link>https://jethughes.github.io/notes/tags/lectures/</link><description>Recent content in lectures on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://jethughes.github.io/notes/tags/lectures/index.xml" rel="self" type="application/rss+xml"/><item><title>04-scripting-techniques</title><link>https://jethughes.github.io/notes/notes/04-scripting-techniques/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jethughes.github.io/notes/notes/04-scripting-techniques/</guid><description>Least privilege
+sys admins should follow this principle users/proceses should not be given more privileges than they need processes always belong to users e.</description></item></channel></rss>
